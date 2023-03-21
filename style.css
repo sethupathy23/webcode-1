@@ -1,0 +1,21 @@
+.main1{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+#main{
+    /* margin-right:50px;
+    padding-right: 50px; */
+    width:520px;
+    
+    }
+.body{
+    background-color:azure;
+    color:blueviolet;
+    
+}
+.text h1{
+    text-align: center;
+    margin-top:50px;
+}
+
